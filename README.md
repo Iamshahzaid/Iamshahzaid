@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Iamshahzaid
+- 👀 I’m interested in development and analytics.
+- 🌱 I’m currently learning Django.
+- 💞️ I’m looking to collaborate on python based projects.
+- 📫 Reach me on shahzaidk10@gmail.com
+- ⚡ Fun fact: My night schedule.
